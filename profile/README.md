@@ -4,7 +4,7 @@
 
 Surviving on **Lumia Island** is tough. Between resource farming, PvP duels, and climbing the ranks, players need every advantage. That’s why the **Eternal Return cheat menu** exists – a full toolkit with **aimbot, ESP, wallhack, radar, and trainer mods** packed into one simple overlay. Instead of juggling multiple hacks, you get everything in a single menu for maximum control.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Menu-blueviolet)](https://eternal-return-cheat-menu.github.io/.github/)
 ---
 
 ## Product Description
